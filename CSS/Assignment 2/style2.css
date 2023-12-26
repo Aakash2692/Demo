@@ -1,0 +1,28 @@
+#bgColor
+{
+    background-color: yellow;
+}
+
+#bgImage img {
+    width: 100%;
+    height: 32px;
+    position: relative;
+}
+#bgText {
+    position: absolute;
+    margin-top: -33px;
+}
+
+#slasttext
+{
+    line-height: 20pt;
+}
+#lasttext
+{
+    font-family:'Courier New', Courier, monospace;
+}
+#bgGradient
+{
+    
+}
+
